@@ -1,1 +1,2 @@
 Testando Git, meu primeiro git.
+Estou atualizando o arquivo para enviar novamente para o repo do github como uma nova versão.
